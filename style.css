@@ -1,0 +1,31 @@
+body {
+
+    background-image: url("topography.png");
+}
+
+#name-input {
+	margin-top: 20px;
+}
+
+#email-input {
+	margin-top: 25px;
+}
+
+#message-input {
+	margin-top: 25px;
+}
+
+#submit-button {
+	margin-top: 25px;
+}
+
+#connect {
+
+	margin-top: 225px;
+}
+
+#me{
+
+	height: 300px;
+	width: 250px;
+}
